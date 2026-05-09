@@ -4,10 +4,10 @@ The projects here have no relation to my others like Gamebird and Velocity (othe
 
 ***Warning: These repositories are rarely updated, and if one involves online interaction may suffer from security vulnerabilities. However, I will still attempt to fix the issues if contacted about it. Use the links below, THANKS!! :D***  
 
-### Support Me:
-😺Github: https://github.com/notdabenjamin
-🐥Bluesky: https://bsky.app/profile/notdabenjamin.neocities.org
-💻Website: https://notdabenjamin.neocities.org/
-💬Contact: https://notdabenjamin.neocities.org/contact
+### Support Me:  
+😺Github: https://github.com/notdabenjamin  
+🐥Bluesky: https://bsky.app/profile/notdabenjamin.neocities.org  
+💻Website: https://notdabenjamin.neocities.org/  
+💬Contact: https://notdabenjamin.neocities.org/contact  
 
 All links can be found on my <a href="https://github.com/notdabenjamin">Github Profile</a>!
