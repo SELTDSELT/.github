@@ -2,7 +2,7 @@
 THIS is a collection of my different projects made for jokes or just in my free time (or are too emabarrising to put on my profile).  
 The projects here have no relation to my others like Gamebird and Velocity (other than it's made by the same person).  
 
-***Warning: These repositories are rarely updated, and if one involves online interaction may suffer from security vulnerabilities. However, I will still attempt to fix the issues if contacted about it. Use the links below, THANKS!! :D***  
+***Warning: These repositories are rarely updated, and if one involves online interaction it may suffer from security vulnerabilities. However, I will still attempt to fix the issues if contacted about it. Use the links below, THANKS!! :D***  
 
 ### Support Me:  
 😺Github: https://github.com/notdabenjamin  
